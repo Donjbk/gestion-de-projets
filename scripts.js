@@ -1,0 +1,1 @@
+alert( 'un projet de base ! ' )
